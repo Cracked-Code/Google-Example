@@ -36,8 +36,21 @@ button {
     cursor: pointer;
 }
 .google-header {
-    font-family:'Poppins', sans-serif;
+    font-family:'Orbitron', sans-serif;
     font-size: 3rem;    
+}
+
+.Blue   {
+    color: rgb(57, 74, 224);
+}
+.Red {
+    color: red;
+}
+.Yellow {
+    color: rgb(243, 243, 55);
+}
+.Green  {
+    color: green;
 }
 
 .nav-container {
